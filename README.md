@@ -40,3 +40,5 @@ https://help.github.com/en/articles/about-pull-requests
 https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/cloning-a-repository-from-github-to-github-desktop
 
 https://confluence.atlassian.com/get-started-with-bitbucket/push-code-to-bitbucket-861185309.html
+
+https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository
